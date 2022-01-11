@@ -1,0 +1,26 @@
+.relative .clothing .funny-glasses {
+  position: relative;
+  left: 13.3em;
+  bottom: 7em;
+}
+
+.absolute .clothing .bandana {
+  position: absolute;
+  top: 11em;
+  left: 7em;
+}
+
+.fixed .fixed-corgi-signature {
+  position: fixed;
+  top: 2.6em;
+  left: 4em;
+}
+
+.sticky .luna {
+  position: sticky;
+  left: 0;
+}
+
+.zindex .top-hat {
+  z-index: 1;
+}
